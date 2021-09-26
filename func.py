@@ -9,4 +9,4 @@ class Square:
         return self.side**2
 
 
-obj = Square(4)
+obj = Square(5)
